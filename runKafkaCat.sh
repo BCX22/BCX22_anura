@@ -1,0 +1,1 @@
+kafkacat -F ./kc.config -t evh-adxevents-aurlt7utqtfhs
