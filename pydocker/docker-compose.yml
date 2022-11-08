@@ -1,0 +1,10 @@
+services:
+  python:
+    container_name: pydocker
+    build:
+      context:
+        ./src/
+    image: pydocker
+    ports:
+      - "27017:27017"
+    env_file: ./src/.env
