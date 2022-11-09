@@ -1,5 +1,5 @@
 ## Team *anura*
-## BCX Hackathon 2022 
+## BCX Hackathon 2022. Challenge #1 BUILDING a new reality
 
 **Vision**:
 *We want to create the geriatric care room of the future. Sensors, A.I. & Connectivity will enable a multi-layered network that allows caregivers, autonomous systems and relatives to work hand in hand in care for the well-being of the elderly.*
